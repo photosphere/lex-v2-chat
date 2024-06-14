@@ -53,3 +53,7 @@ streamlit run lex-v2-chat.py
 
 ```bash
 streamlit run lex-v2-chat.py --server.port 8080 --server.address=0.0.0.0
+```
+
+### Configuration screenshot
+<img width="1044" alt="Flow Parser" src="https://github.com/photosphere/lex-v2-chat/assets/3398595/22d9dbe3-7546-4ee9-8ca3-053270381eff">
